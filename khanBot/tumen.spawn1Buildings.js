@@ -1,5 +1,6 @@
 var spawn1Buildings = {
   run: function(manageBuildings)
+  //The format of each flag is Level, Spawn, and then Type
   if (Memory.spawn1RoomControllerLevel == 1){
     Game.spawns['SpawnName'].room.createConstructionSite( Game.flags.L1S1R1.pos STRUCTURE_ROAD );  
     Game.spawns['SpawnName'].room.createConstructionSite( Game.flags.L1S1R10.pos STRUCTURE_ROAD );  
@@ -47,6 +48,7 @@ var spawn1Buildings = {
     Game.spawns['SpawnName'].room.createConstructionSite( Game.flags.L2S1R21.pos STRUCTURE_ROAD );  
     Game.spawns['SpawnName'].room.createConstructionSite( Game.flags.L2S1R20.pos STRUCTURE_ROAD );  
   }
+  
 }
 }
 module.exports = spawn1Buildings
