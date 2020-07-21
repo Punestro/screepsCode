@@ -16,7 +16,7 @@ var spawn1Manage = {
   Memory.spawn1Turret4 = Game.getObjectbyId('changeDis');
   
   //Get's spawn1's id so it can prosess the controller level.
-  var spawn1Id = Game.getObjectById('changeDis');
+  var spawn1 = Game.getObjectById('changeDis');
   Memory.spawn1RoomControllerLevel = spawn1.room.controller.level;
   
   //Grabs the container Id's
