@@ -1,1 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T19:33:14.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.0" etag="V1N2ZZgFbPQBgSA5Lkm-" type="github"><diagram id="7Azu7UTdnKWP9whuKhBa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-26T22:22:25.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gNwsUz9Zy9Ji7Es63_J0" version="20.2.0" type="github">
+  <diagram id="7Azu7UTdnKWP9whuKhBa" name="Page-1">
+    <mxGraphModel dx="2272" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KURPWrmysGDpcErTe4hJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-1" target="KURPWrmysGDpcErTe4hJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-1" value="Intro to the fact that Gal is in Geneva in a small house." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-3" target="KURPWrmysGDpcErTe4hJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-3" target="KURPWrmysGDpcErTe4hJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-3" value="Corentin barges in sort of explaining he in trouble." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-4" target="KURPWrmysGDpcErTe4hJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-4" value="Sit him down and slap him" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-6" target="KURPWrmysGDpcErTe4hJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-6" value="Listen to him and keep quiet" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-8" target="KURPWrmysGDpcErTe4hJ-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="560" />
+              <mxPoint x="440" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-8" value="Corentin is more upseted and after many minutes he finally pulls it together." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-10" target="KURPWrmysGDpcErTe4hJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-10" target="KURPWrmysGDpcErTe4hJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-10" value="Corentin explains more deeply.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-12" target="KURPWrmysGDpcErTe4hJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-12" value="Stay quiet and let him speak" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-14" target="KURPWrmysGDpcErTe4hJ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-14" value="Grab him and run and leave out back door." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-16" target="KURPWrmysGDpcErTe4hJ-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="560" />
+              <mxPoint x="440" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-16" value="Corentin continues for bit but man barges into room." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-18" target="KURPWrmysGDpcErTe4hJ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-18" target="KURPWrmysGDpcErTe4hJ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-18" value="Swordfight! The guy draws sword and defense poses." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-21" target="KURPWrmysGDpcErTe4hJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-21" target="KURPWrmysGDpcErTe4hJ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-21" value="A guy bursts into house as they escape. He no see them, but he is in Galileo&#39;s house." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="380" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-23" target="KURPWrmysGDpcErTe4hJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-23" value="Attack him?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-28" target="KURPWrmysGDpcErTe4hJ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-28" value="Leave." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-30" target="KURPWrmysGDpcErTe4hJ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-30" value="As you leave, he sees you and runs after you. What do you do?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-34" target="KURPWrmysGDpcErTe4hJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-34" value="Attack him." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-37" target="KURPWrmysGDpcErTe4hJ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-37" value="Charge." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-39" target="KURPWrmysGDpcErTe4hJ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-39" value="Throw something at him." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-41" target="KURPWrmysGDpcErTe4hJ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-41" value="He is distracted for you to attack." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-43" value="Charge?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-45" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
