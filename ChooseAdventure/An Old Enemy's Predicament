@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T22:22:25.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gNwsUz9Zy9Ji7Es63_J0" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T22:25:24.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QpbLka4ng0FsekUaoX9V" version="20.2.0" type="github">
   <diagram id="7Azu7UTdnKWP9whuKhBa" name="Page-1">
     <mxGraphModel dx="2272" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint x="300" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-1" value="Intro to the fact that Gal is in Geneva in a small house." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-1" value="Intro to the fact that Gal is in Geneva in a small house." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E5FF00;" vertex="1" parent="1">
           <mxGeometry x="170" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KURPWrmysGDpcErTe4hJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-3" target="KURPWrmysGDpcErTe4hJ-4">
