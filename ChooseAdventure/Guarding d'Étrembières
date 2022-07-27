@@ -1,1 +1,127 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T09:37:18.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.1" etag="3gDBJG7n2KsLyfjNUL4O" type="github"><diagram id="0tYeO9pRfy9QoOGqh5zc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-27T10:36:46.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HgyDtFLWfbX1k7JC5Seo" version="20.2.1" type="github">
+  <diagram id="0tYeO9pRfy9QoOGqh5zc" name="Page-1">
+    <mxGraphModel dx="1778" dy="2083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HR_LlB8NlyVdpncolm2W-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-1" target="HR_LlB8NlyVdpncolm2W-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-1" target="HR_LlB8NlyVdpncolm2W-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-1" value="It&#39;s a normal day at the castle. Until an irregular comes in. He doesn&#39;t say anything and walks off of the path." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-2" target="HR_LlB8NlyVdpncolm2W-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-2" value="Ignore him." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-4" value="Nothing else happens besides the fact that he disappears later. A small while later, a maid runs out yelling, &quot;The King&#39;s been murdered.&quot; Should have taken initiative." style="whiteSpace=wrap;html=1;fillColor=#FFADAD;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="245" width="175" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-6" target="HR_LlB8NlyVdpncolm2W-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-6" value="Check him out." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-8" target="HR_LlB8NlyVdpncolm2W-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-8" target="HR_LlB8NlyVdpncolm2W-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-8" target="HR_LlB8NlyVdpncolm2W-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-8" target="HR_LlB8NlyVdpncolm2W-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-8" value="As he rounds a bend, he rounds a bend. You watch him walk up to the window, look around, and then break it quietly and hop in.&lt;br&gt;After following, you notice he doesn&#39;t know his way around too well." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="180" width="147.5" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-10" target="HR_LlB8NlyVdpncolm2W-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-10" value="Jump him.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-14" target="HR_LlB8NlyVdpncolm2W-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-14" value="Use your knowledge of&lt;span id=&quot;docs-internal-guid-979b8f86-7fff-db5f-d52b-deebfd835cb5&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;&amp;nbsp;d&#39;Étrembières to get the jump on him.&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="30" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-16" target="HR_LlB8NlyVdpncolm2W-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-16" target="HR_LlB8NlyVdpncolm2W-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-16" value="You charge him, but although startled, he deflects. Sending you towards a wall. What do you do?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="-90" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-18" target="HR_LlB8NlyVdpncolm2W-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-18" value="Flip off wall." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-20" target="HR_LlB8NlyVdpncolm2W-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-20" value="Turn around" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-22" value="When you turn your momentum makes you slip on the clean, polished floor. As you groan in pain, the man escapes. A while later, a maid comes in yelling, &quot;The King&#39;s been murdered.&quot;" style="whiteSpace=wrap;html=1;fillColor=#FF8C8C;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="-225" width="205" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-24" value="You startle him with your coolness and you tackle him, pinning what was actually a hired assassin. Well done." style="whiteSpace=wrap;html=1;fillColor=#B5FFB8;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-390" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-26" target="HR_LlB8NlyVdpncolm2W-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-26" target="HR_LlB8NlyVdpncolm2W-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-26" target="HR_LlB8NlyVdpncolm2W-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-26" value="You use the corridoors to find exactly where he is, you then head through another secret corridor and are ready to jump out of a fake wall. Ready?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-180" width="150" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-28" target="HR_LlB8NlyVdpncolm2W-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-28" value="Wait?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-31" target="HR_LlB8NlyVdpncolm2W-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-31" value="Go!" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-33" target="HR_LlB8NlyVdpncolm2W-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-33" value="You wait and now hear footsteps outside. Jump out?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HR_LlB8NlyVdpncolm2W-35" target="HR_LlB8NlyVdpncolm2W-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-35" value="Jump!" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_LlB8NlyVdpncolm2W-37" value="Turns out, you don&#39;t know the castle too well either. You jump into a recreation hall and startle two older men playing cards. Minutes later, a man barges in and yells, &quot;The King&#39;s been murdered.&quot;" style="whiteSpace=wrap;html=1;fillColor=#FFABAB;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-410" width="190" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
