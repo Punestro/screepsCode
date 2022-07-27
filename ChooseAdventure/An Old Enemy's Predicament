@@ -1,39 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T22:25:24.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QpbLka4ng0FsekUaoX9V" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T09:28:51.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qFBS7ATgUucnqomy92CW" version="20.2.1" type="github">
   <diagram id="7Azu7UTdnKWP9whuKhBa" name="Page-1">
-    <mxGraphModel dx="2272" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KURPWrmysGDpcErTe4hJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-1" target="KURPWrmysGDpcErTe4hJ-3">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KURPWrmysGDpcErTe4hJ-1" target="KURPWrmysGDpcErTe4hJ-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-1" value="Intro to the fact that Gal is in Geneva in a small house." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E5FF00;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-1" value="Intro to the fact that Gal is in Geneva in a small house." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E5FF00;" parent="1" vertex="1">
           <mxGeometry x="170" y="90" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-3" target="KURPWrmysGDpcErTe4hJ-4">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-3" target="KURPWrmysGDpcErTe4hJ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-3" target="KURPWrmysGDpcErTe4hJ-6">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-3" target="KURPWrmysGDpcErTe4hJ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-3" value="Corentin barges in sort of explaining he in trouble." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-3" value="Corentin barges in sort of explaining he in trouble." style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="90" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-4" target="KURPWrmysGDpcErTe4hJ-8">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-4" target="KURPWrmysGDpcErTe4hJ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-4" value="Sit him down and slap him" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-4" value="Sit him down and slap him" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-6" target="KURPWrmysGDpcErTe4hJ-10">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-6" target="KURPWrmysGDpcErTe4hJ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-6" value="Listen to him and keep quiet" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-6" value="Listen to him and keep quiet" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-8" target="KURPWrmysGDpcErTe4hJ-18">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KURPWrmysGDpcErTe4hJ-8" target="KURPWrmysGDpcErTe4hJ-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="560" />
@@ -41,31 +41,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-8" value="Corentin is more upseted and after many minutes he finally pulls it together." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-8" value="Corentin is more upseted and after many minutes he finally pulls it together." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="400" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-10" target="KURPWrmysGDpcErTe4hJ-12">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-10" target="KURPWrmysGDpcErTe4hJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-10" target="KURPWrmysGDpcErTe4hJ-14">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-10" target="KURPWrmysGDpcErTe4hJ-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-10" value="Corentin explains more deeply.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-10" value="Corentin explains more deeply.&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-12" target="KURPWrmysGDpcErTe4hJ-16">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-12" target="KURPWrmysGDpcErTe4hJ-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-12" value="Stay quiet and let him speak" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-12" value="Stay quiet and let him speak" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-14" target="KURPWrmysGDpcErTe4hJ-21">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-14" target="KURPWrmysGDpcErTe4hJ-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-14" value="Grab him and run and leave out back door." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-14" value="Grab him and run and leave out back door." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-16" target="KURPWrmysGDpcErTe4hJ-18">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-16" target="KURPWrmysGDpcErTe4hJ-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="560" />
@@ -73,74 +73,215 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-16" value="Corentin continues for bit but man barges into room." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-16" value="Corentin continues for bit but man barges into room." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-18" target="KURPWrmysGDpcErTe4hJ-37">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-18" target="KURPWrmysGDpcErTe4hJ-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-18" target="KURPWrmysGDpcErTe4hJ-39">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-18" target="KURPWrmysGDpcErTe4hJ-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-18" value="Swordfight! The guy draws sword and defense poses." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-18" value="Swordfight! The guy draws sword and defense poses." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-21" target="KURPWrmysGDpcErTe4hJ-23">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-21" target="KURPWrmysGDpcErTe4hJ-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-21" target="KURPWrmysGDpcErTe4hJ-28">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-21" target="KURPWrmysGDpcErTe4hJ-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-21" value="A guy bursts into house as they escape. He no see them, but he is in Galileo&#39;s house." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-21" value="A guy bursts into house as they escape. He no see them, but he is in Galileo&#39;s house." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="380" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-23" target="KURPWrmysGDpcErTe4hJ-18">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KURPWrmysGDpcErTe4hJ-23" target="KURPWrmysGDpcErTe4hJ-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-23" value="Attack him?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-23" value="Attack him?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-28" target="KURPWrmysGDpcErTe4hJ-30">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-28" target="KURPWrmysGDpcErTe4hJ-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-28" value="Leave." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-28" value="Leave." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-30" target="KURPWrmysGDpcErTe4hJ-34">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-30" target="KURPWrmysGDpcErTe4hJ-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-30" value="As you leave, he sees you and runs after you. What do you do?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-30" target="Z_m0XAqReT5lOWiswH-5-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-30" value="As you leave, he sees you and runs after you. What do you do?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-34" target="KURPWrmysGDpcErTe4hJ-18">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KURPWrmysGDpcErTe4hJ-34" target="KURPWrmysGDpcErTe4hJ-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-34" value="Attack him." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-34" value="Attack him." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-37" target="KURPWrmysGDpcErTe4hJ-45">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-37" target="KURPWrmysGDpcErTe4hJ-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-37" value="Charge." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-37" value="Charge." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-39" target="KURPWrmysGDpcErTe4hJ-41">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-39" target="KURPWrmysGDpcErTe4hJ-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-39" value="Throw something at him." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-39" value="Throw something at him." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-41" target="KURPWrmysGDpcErTe4hJ-43">
+        <mxCell id="KURPWrmysGDpcErTe4hJ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KURPWrmysGDpcErTe4hJ-41" target="KURPWrmysGDpcErTe4hJ-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-41" value="He is distracted for you to attack." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-41" target="Z_m0XAqReT5lOWiswH-5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-41" target="Z_m0XAqReT5lOWiswH-5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-41" value="He is distracted for you to attack." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-43" value="Charge?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-43" target="KURPWrmysGDpcErTe4hJ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-43" value="Charge?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KURPWrmysGDpcErTe4hJ-45" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-45" target="Z_m0XAqReT5lOWiswH-5-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KURPWrmysGDpcErTe4hJ-45" target="Z_m0XAqReT5lOWiswH-5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURPWrmysGDpcErTe4hJ-45" value="You charge but are deflected towards a wall you turn around and he is lunging at you." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="370" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-7" target="Z_m0XAqReT5lOWiswH-5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-7" value="Thrust." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-9" target="Z_m0XAqReT5lOWiswH-5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-9" value="Defend as well." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-11" value="You thrust quickly but are blocked. He kicks you into a wall and knocks you out." style="whiteSpace=wrap;html=1;fillColor=#FF7575;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-13" target="Z_m0XAqReT5lOWiswH-5-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-13" value="You both stay standing there, staring at eachother." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-15" target="Z_m0XAqReT5lOWiswH-5-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-15" value="Bounce off wall at him." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-17" target="Z_m0XAqReT5lOWiswH-5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-17" value="Keep running after deflected." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-19" target="Z_m0XAqReT5lOWiswH-5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-19" target="Z_m0XAqReT5lOWiswH-5-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-19" value="You use your momentum to distract the guy and you and corentin escape. Corentin suggests stealing a boat at dock." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="202.5" width="130" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-21" target="Z_m0XAqReT5lOWiswH-5-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-21" value="Sure." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-23" target="Z_m0XAqReT5lOWiswH-5-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-23" value="No!" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-28" target="Z_m0XAqReT5lOWiswH-5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-28" target="Z_m0XAqReT5lOWiswH-5-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-28" value="He is startled, and you knock him down. After escaping, Corentin says you could steal a boat." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="385" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-30" target="Z_m0XAqReT5lOWiswH-5-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-30" value="Make a run for it to the docks." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-32" target="Z_m0XAqReT5lOWiswH-5-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-32" value="Go to the marketplace." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-34" value="You escape through a crowd, after trying to escape through a crowd. Corentin suggests stealing a boat." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="900" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-36" value="There are many crowds and it is easy to slip through and disapear into the&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-39" target="Z_m0XAqReT5lOWiswH-5-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-39" value="No!" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-41" target="Z_m0XAqReT5lOWiswH-5-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-41" value="Sorry, but you don&#39;t have much of a choice now. You yelled no so loud two men saw you and are running towards you and Corentin." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-450" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-43" target="Z_m0XAqReT5lOWiswH-5-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-43" value="Sorry, but you don&#39;t have much of a choice now. You yelled no so loud two men saw you and are running towards you and Corentin." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="-460" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-45" target="Z_m0XAqReT5lOWiswH-5-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-45" target="Z_m0XAqReT5lOWiswH-5-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-45" value="You quickly run onto a boat and pull away as two kidnappers see you. But its too late. You pull away onto the boat. Now where?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="-95" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-47" value="Across the lake" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-50" value="Just hang out in the middle." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-52" target="Z_m0XAqReT5lOWiswH-5-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_m0XAqReT5lOWiswH-5-52" target="Z_m0XAqReT5lOWiswH-5-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_m0XAqReT5lOWiswH-5-52" value="You dash to a boat and realize it is the kidnappers&#39;. You pull away just as they arrive. Now where?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-480" width="120" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
